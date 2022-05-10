@@ -1,0 +1,96 @@
+
+yjavascript:S3358‡"DExtract this nested ternary operation into an independent statement.(»“ıÿÿÿÿRMAJORZ
+CODE_SMELL
+gjavascript:S1117œ	"2'position' is already declared in the upper scope.(€šÙÿøÿÿÿÿRMAJORZ
+CODE_SMELL
+cjavascript:S1135›"4Complete the task associated to this "TODO" comment.(¿Æ¿İRINFOZ
+CODE_SMELL
+tjavascript:S1481Ş"DRemove the declaration of the unused 'widgetsAutocomplete' variable.(ê‰‹‘RMINORZ
+CODE_SMELL
+tjavascript:S3358‡	"DExtract this nested ternary operation into an independent statement.(÷ßÃ»RMAJORZ
+CODE_SMELL
+hjavascript:S1481á	"8Remove the declaration of the unused 'keycode' variable.(åæ‰ˆRMINORZ
+CODE_SMELL
+njavascript:S1481…
+"9Remove the declaration of the unused 'uniqueId' variable.(Æ­î¦ÿÿÿÿÿRMINORZ
+CODE_SMELL
+Œjavascript:S3776½"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Øî¾ïüÿÿÿÿRCRITICALZ
+CODE_SMELL
+Œjavascript:S3776ä
+"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(“ô´øÿÿÿÿRCRITICALZ
+CODE_SMELL
+yjavascript:S3358†"DExtract this nested ternary operation into an independent statement.(»ğÕ÷şÿÿÿÿRMAJORZ
+CODE_SMELL
+Œjavascript:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(“ô´øÿÿÿÿRCRITICALZ
+CODE_SMELL
+bjavascript:S1117Å"2'position' is already declared in the upper scope.(§¸µ”RMAJORZ
+CODE_SMELL
+Œjavascript:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÈêùÿÿÿÿRCRITICALZ
+CODE_SMELL
+ijavascript:S1854ç"4Remove this useless assignment to variable "widget".(»¹¥ÙüÿÿÿÿRMAJORZ
+CODE_SMELL
+ojavascript:S1854
+"?Remove this useless assignment to variable "safeActiveElement".(Ã©‡¡RMAJORZ
+CODE_SMELL
+‡javascript:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÍåğÙRCRITICALZ
+CODE_SMELL
+ljavascript:S1481ç"7Remove the declaration of the unused 'widget' variable.(»¹¥ÙüÿÿÿÿRMINORZ
+CODE_SMELL
+kjavascript:S1854…
+"6Remove this useless assignment to variable "uniqueId".(Æ­î¦ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+yjavascript:S3358§	"DExtract this nested ternary operation into an independent statement.(ÅŞ«‘ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+ejavascript:S1854á	"5Remove this useless assignment to variable "keycode".(åæ‰ˆRMAJORZ
+CODE_SMELL
+bjavascript:S1117ø"2'position' is already declared in the upper scope.(¨ëÍ‡RMAJORZ
+CODE_SMELL
+Œjavascript:S3776„"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ºŒ®ÁşÿÿÿÿRCRITICALZ
+CODE_SMELL
+djavascript:S1854"5Remove this useless assignment to variable "version".(ï•˜ÖRMAJORZ
+CODE_SMELL
+fjavascript:S1854Ï	"6Remove this useless assignment to variable "position".(ÚÜÇRMAJORZ
+CODE_SMELL
+hjavascript:S1135®"4Complete the task associated to this "TODO" comment.(¸Õ¹ËşÿÿÿÿRINFOZ
+CODE_SMELL
+Œjavascript:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(’×—úúÿÿÿÿRCRITICALZ
+CODE_SMELL
+vjavascript:S1121Ç"FExtract the assignment of "cachedScrollbarWidth" from this expression.(î¹Í£RMAJORZ
+CODE_SMELL
+ijavascript:S1481Ï	"9Remove the declaration of the unused 'position' variable.(ÚÜÇRMINORZ
+CODE_SMELL
+ljavascript:S1481Î
+"<Remove the declaration of the unused 'widgetsMenu' variable.(ÊÃùÏRMINORZ
+CODE_SMELL
+yjavascript:S3358Ç"DExtract this nested ternary operation into an independent statement.(É›˜ÚşÿÿÿÿRMAJORZ
+CODE_SMELL
+Rjavascript:S1186¢"Unexpected empty function.(µ€œåøÿÿÿÿRCRITICALZ
+CODE_SMELL
+bjavascript:S1117"2'position' is already declared in the upper scope.(¨ëÍ‡RMAJORZ
+CODE_SMELL
+Œjavascript:S3776í"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(÷§ÿÿÿÿÿRCRITICALZ
+CODE_SMELL
+tjavascript:S3358‚	"DExtract this nested ternary operation into an independent statement.(”íàRMAJORZ
+CODE_SMELL
+ˆjavascript:S3776ü"URefactor this function to reduce its Cognitive Complexity from 212 to the 15 allowed.(ˆè²ÔRCRITICALZ
+CODE_SMELL
+tjavascript:S3358¬	"DExtract this nested ternary operation into an independent statement.(»¯™ÊRMAJORZ
+CODE_SMELL
+ijavascript:S1854Î
+"9Remove this useless assignment to variable "widgetsMenu".(ÊÃùÏRMAJORZ
+CODE_SMELL
+rjavascript:S1481
+"BRemove the declaration of the unused 'safeActiveElement' variable.(Ã©‡¡RMINORZ
+CODE_SMELL
+gjavascript:S1481"8Remove the declaration of the unused 'version' variable.(ï•˜ÖRMINORZ
+CODE_SMELL
+‡javascript:S3776À"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ùß•àRCRITICALZ
+CODE_SMELL
+yjavascript:S3358"DExtract this nested ternary operation into an independent statement.(ü”ì›ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+qjavascript:S1854Ş"ARemove this useless assignment to variable "widgetsAutocomplete".(ê‰‹‘RMAJORZ
+CODE_SMELL
+bjavascript:S1117ú"2'position' is already declared in the upper scope.(šÁ‰RMAJORZ
+CODE_SMELL
+gjavascript:S1117Ê"2'position' is already declared in the upper scope.(€šÙÿøÿÿÿÿRMAJORZ
+CODE_SMELL

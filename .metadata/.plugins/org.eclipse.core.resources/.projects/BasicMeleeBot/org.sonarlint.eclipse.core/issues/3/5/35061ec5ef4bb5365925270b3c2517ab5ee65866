@@ -1,0 +1,16 @@
+
+ƒ
+java:S1104"UMake bodyColor a static final constant or non-public and provide accessors if needed.(€ùÊÄøÿÿÿÿRMINORZ
+CODE_SMELL
+ƒ
+java:S1104"UMake scanColor a static final constant or non-public and provide accessors if needed.(žÚ¬·ûÿÿÿÿRMINORZ
+CODE_SMELL
+„
+java:S1104"VMake radarColor a static final constant or non-public and provide accessors if needed.(Ó¢œ­þÿÿÿÿRMINORZ
+CODE_SMELL
+€
+java:S1104"WMake bulletColor a static final constant or non-public and provide accessors if needed.(õ—üèRMINORZ
+CODE_SMELL
+|
+java:S1104"TMake gunColor a static final constant or non-public and provide accessors if needed.(Ý×’zRMINORZ
+CODE_SMELL

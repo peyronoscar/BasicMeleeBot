@@ -1,0 +1,40 @@
+
+~	java:S1168"QRename this field "SIZE_Y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÍƒüùÿÿÿÿRMINORZ
+CODE_SMELL
+³
+java:S1186´"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áˆ–¶úÿÿÿÿRCRITICALZ
+CODE_SMELL
+X
+java:S10688"*Remove this unused "SIZE_Y" private field.(åÍƒüùÿÿÿÿRMAJORZ
+CODE_SMELL
+~	java:S1167"QRename this field "SIZE_X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à’îúÿÿÿÿRMINORZ
+CODE_SMELL
+ƒ	java:S1169"VRename this field "PRINT_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÔˆüÿÿÿÿRMINORZ
+CODE_SMELL
+³
+java:S1186‚"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´ÈÿôıÿÿÿÿRCRITICALZ
+CODE_SMELL
+³
+java:S1186‹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ¶ÖûÿÿÿÿRCRITICALZ
+CODE_SMELL
+X
+java:S10687"*Remove this unused "SIZE_X" private field.(à’îúÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106¥"9Replace this use of System.out or System.err by a logger.(œÈ¡0RMAJORZ
+CODE_SMELL
+„	java:S1164"WRename this field "ENEMY_ROBOTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢èÊ—ùÿÿÿÿRMINORZ
+CODE_SMELL
+®
+java:S1186Ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒºË’RCRITICALZ
+CODE_SMELL
+z	java:S1010"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Èª÷×úÿÿÿÿRMINORZ
+CODE_SMELL
+	java:S1166"TRename this field "THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÉˆÆşÿÿÿÿRMINORZ
+CODE_SMELL
+‚	java:S1165"URename this field "NBR_ROUNDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØªÃ×ÿÿÿÿÿRMINORZ
+CODE_SMELL
+³
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öè“üÿÿÿÿRCRITICALZ
+CODE_SMELL
+ˆ	java:S1163"[Rename this field "ROBOT_UNDER_TEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”‡¼ıÿÿÿÿRMINORZ
+CODE_SMELL

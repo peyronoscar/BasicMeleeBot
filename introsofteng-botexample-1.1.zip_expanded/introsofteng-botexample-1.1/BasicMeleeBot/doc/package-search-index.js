@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"se.lth.cs.etsa02.basicmeleebot"},{"l":"se.lth.cs.etsa02.basicmeleebot.test"}]

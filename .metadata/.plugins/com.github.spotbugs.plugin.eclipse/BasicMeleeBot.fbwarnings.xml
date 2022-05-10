@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.6.0" sequence="1" timestamp="1649842321244" analysisTimestamp="1649842319610" release="">
+  <Project projectName="BasicMeleeBot">
+    <Jar>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/bin</Jar>
+    <AuxClasspathEntry>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/bin</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/.p2/pool/plugins/org.junit_4.13.2.v20211018-1956.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/.p2/pool/plugins/org.hamcrest.core_1.3.0.v20180420-1519.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/libs/picocontainer-2.14.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/libs/robocode.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/libs/robocode.testing.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/libs/robocode.battle-1.9.3.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/libs/robocode.core-1.9.3.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/libs/robocode.host-1.9.3.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/libs/robocode.repository-1.9.3.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/libs/robocode.sound-1.9.3.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/libs/robocode.ui-1.9.3.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/libs/robocode.ui.editor-1.9.3.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/lib/jrt-fs.jar</AuxClasspathEntry>
+    <SrcDir>/Users/oscarpeyron/Documents/Studier/LP_4/robocode-eclipse/introsofteng-botexample-1.1.zip_expanded/introsofteng-botexample-1.1/BasicMeleeBot/src</SrcDir>
+  </Project>
+  <BugInstance type="UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" priority="3" rank="20" abbrev="UwF" category="STYLE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" sourcefile="BasicMeleeBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" name="enemyTracker" signature="Lse/lth/cs/etsa02/basicmeleebot/EnemyTracker;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" sourcefile="BasicMeleeBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot.java"/>
+    </Field>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" name="onRobotDeath" signature="(Lrobocode/RobotDeathEvent;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" start="86" end="87" startBytecode="0" endBytecode="67" sourcefile="BasicMeleeBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot.java"/>
+    </Method>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" start="86" end="86" startBytecode="8" endBytecode="8" sourcefile="BasicMeleeBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" start="86" end="86" startBytecode="8" endBytecode="8" sourcefile="BasicMeleeBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot.java"/>
+  </BugInstance>
+  <BugInstance type="UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" priority="3" rank="20" abbrev="UwF" category="STYLE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" sourcefile="BasicMeleeBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" name="enemyTracker" signature="Lse/lth/cs/etsa02/basicmeleebot/EnemyTracker;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" sourcefile="BasicMeleeBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot.java"/>
+    </Field>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" name="onScannedRobot" signature="(Lrobocode/ScannedRobotEvent;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" start="76" end="77" startBytecode="0" endBytecode="64" sourcefile="BasicMeleeBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot.java"/>
+    </Method>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" start="76" end="76" startBytecode="5" endBytecode="5" sourcefile="BasicMeleeBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" start="76" end="76" startBytecode="5" endBytecode="5" sourcefile="BasicMeleeBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot.java"/>
+  </BugInstance>
+  <BugInstance type="UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" priority="3" rank="20" abbrev="UwF" category="STYLE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" name="enemyNames" signature="[Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Field>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" name="findEnemyByName" signature="(Ljava/lang/String;)I" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="199" end="202" startBytecode="0" endBytecode="120" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Method>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="200" end="200" startBytecode="10" endBytecode="10" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="200" end="200" startBytecode="10" endBytecode="10" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+  </BugInstance>
+  <BugInstance type="UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" priority="3" rank="20" abbrev="UwF" category="STYLE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" name="enemyNames" signature="[Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Field>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" name="onRobotDeath" signature="(Lrobocode/RobotDeathEvent;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="166" end="174" startBytecode="0" endBytecode="186" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Method>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="169" end="169" startBytecode="32" endBytecode="32" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="169" end="169" startBytecode="32" endBytecode="32" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+  </BugInstance>
+  <BugInstance type="UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" priority="3" rank="20" abbrev="UwF" category="STYLE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" name="enemyNames" signature="[Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Field>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" name="onScannedRobot" signature="(Lrobocode/ScannedRobotEvent;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="142" end="156" startBytecode="0" endBytecode="297" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Method>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="152" end="152" startBytecode="100" endBytecode="100" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="152" end="152" startBytecode="100" endBytecode="100" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+  </BugInstance>
+  <BugInstance type="UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" priority="3" rank="20" abbrev="UwF" category="STYLE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" name="enemyPositions" signature="[Ljava/awt/geom/Point2D$Double;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Field>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" name="onRobotDeath" signature="(Lrobocode/RobotDeathEvent;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="166" end="174" startBytecode="0" endBytecode="186" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Method>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="170" end="170" startBytecode="46" endBytecode="46" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="170" end="170" startBytecode="46" endBytecode="46" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+  </BugInstance>
+  <BugInstance type="UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" priority="3" rank="20" abbrev="UwF" category="STYLE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" name="enemyPositions" signature="[Ljava/awt/geom/Point2D$Double;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Field>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" name="onScannedRobot" signature="(Lrobocode/ScannedRobotEvent;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="142" end="156" startBytecode="0" endBytecode="297" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    </Method>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="150" end="150" startBytecode="84" endBytecode="84" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" start="150" end="150" startBytecode="84" endBytecode="84" sourcefile="BasicMeleeBot_AntiPattern.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/BasicMeleeBot_AntiPattern.java"/>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.EnemyTracker">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.EnemyTracker" sourcefile="EnemyTracker.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/EnemyTracker.java"/>
+    </Class>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.EnemyTracker" name="&lt;init&gt;" signature="(Lse/lth/cs/etsa02/basicmeleebot/BasicMeleeBot;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.EnemyTracker" start="44" end="51" startBytecode="0" endBytecode="107" sourcefile="EnemyTracker.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/EnemyTracker.java"/>
+    </Method>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.EnemyTracker" name="robot" signature="Lse/lth/cs/etsa02/basicmeleebot/BasicMeleeBot;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.EnemyTracker" sourcefile="EnemyTracker.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/EnemyTracker.java"/>
+    </Field>
+    <LocalVariable name="robot" register="1" pc="32" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.EnemyTracker" start="50" end="50" startBytecode="32" endBytecode="32" sourcefile="EnemyTracker.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/EnemyTracker.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.EnemyTracker" start="50" end="50" startBytecode="32" endBytecode="32" sourcefile="EnemyTracker.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/EnemyTracker.java"/>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" sourcefile="MovementSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/MovementSystem.java"/>
+    </Class>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" name="&lt;init&gt;" signature="(Lse/lth/cs/etsa02/basicmeleebot/BasicMeleeBot;Lse/lth/cs/etsa02/basicmeleebot/EnemyTracker;Lse/lth/cs/etsa02/basicmeleebot/PositioningSystem;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" start="54" end="59" startBytecode="0" endBytecode="107" sourcefile="MovementSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/MovementSystem.java"/>
+    </Method>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" name="enemyTracker" signature="Lse/lth/cs/etsa02/basicmeleebot/EnemyTracker;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" sourcefile="MovementSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/MovementSystem.java"/>
+    </Field>
+    <LocalVariable name="enemyTracker" register="2" pc="11" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" start="57" end="57" startBytecode="11" endBytecode="11" sourcefile="MovementSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/MovementSystem.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" start="57" end="57" startBytecode="11" endBytecode="11" sourcefile="MovementSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/MovementSystem.java"/>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" sourcefile="MovementSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/MovementSystem.java"/>
+    </Class>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" name="&lt;init&gt;" signature="(Lse/lth/cs/etsa02/basicmeleebot/BasicMeleeBot;Lse/lth/cs/etsa02/basicmeleebot/EnemyTracker;Lse/lth/cs/etsa02/basicmeleebot/PositioningSystem;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" start="54" end="59" startBytecode="0" endBytecode="107" sourcefile="MovementSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/MovementSystem.java"/>
+    </Method>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" name="robot" signature="Lse/lth/cs/etsa02/basicmeleebot/BasicMeleeBot;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" sourcefile="MovementSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/MovementSystem.java"/>
+    </Field>
+    <LocalVariable name="robot" register="1" pc="6" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" start="56" end="56" startBytecode="6" endBytecode="6" sourcefile="MovementSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/MovementSystem.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.MovementSystem" start="56" end="56" startBytecode="6" endBytecode="6" sourcefile="MovementSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/MovementSystem.java"/>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" sourcefile="TargetingSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/TargetingSystem.java"/>
+    </Class>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" name="&lt;init&gt;" signature="(Lse/lth/cs/etsa02/basicmeleebot/EnemyTracker;Lse/lth/cs/etsa02/basicmeleebot/BasicMeleeBot;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" start="46" end="50" startBytecode="0" endBytecode="88" sourcefile="TargetingSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/TargetingSystem.java"/>
+    </Method>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" name="enemyTracker" signature="Lse/lth/cs/etsa02/basicmeleebot/EnemyTracker;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" sourcefile="TargetingSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/TargetingSystem.java"/>
+    </Field>
+    <LocalVariable name="enemyTracker" register="1" pc="6" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" start="48" end="48" startBytecode="6" endBytecode="6" sourcefile="TargetingSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/TargetingSystem.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" start="48" end="48" startBytecode="6" endBytecode="6" sourcefile="TargetingSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/TargetingSystem.java"/>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" sourcefile="TargetingSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/TargetingSystem.java"/>
+    </Class>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" name="&lt;init&gt;" signature="(Lse/lth/cs/etsa02/basicmeleebot/EnemyTracker;Lse/lth/cs/etsa02/basicmeleebot/BasicMeleeBot;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" start="46" end="50" startBytecode="0" endBytecode="88" sourcefile="TargetingSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/TargetingSystem.java"/>
+    </Method>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" name="robot" signature="Lse/lth/cs/etsa02/basicmeleebot/BasicMeleeBot;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" sourcefile="TargetingSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/TargetingSystem.java"/>
+    </Field>
+    <LocalVariable name="robot" register="2" pc="11" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" start="49" end="49" startBytecode="11" endBytecode="11" sourcefile="TargetingSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/TargetingSystem.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" start="49" end="49" startBytecode="11" endBytecode="11" sourcefile="TargetingSystem.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/TargetingSystem.java"/>
+  </BugInstance>
+  <BugInstance type="SE_NO_SERIALVERSIONID" priority="3" rank="19" abbrev="SnVI" category="BAD_PRACTICE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.test.MockScannedRobotEvent">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.MockScannedRobotEvent" start="43" end="86" sourcefile="MockScannedRobotEvent.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/MockScannedRobotEvent.java"/>
+    </Class>
+  </BugInstance>
+  <BugInstance type="UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" priority="3" rank="20" abbrev="UwF" category="STYLE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" name="allDistances" signature="Ljava/util/LinkedList;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    </Field>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" name="onRoundEnded" signature="(Lrobocode/control/events/RoundEndedEvent;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" start="195" end="209" startBytecode="0" endBytecode="283" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    </Method>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" start="196" end="196" startBytecode="6" endBytecode="6" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" start="196" end="196" startBytecode="6" endBytecode="6" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+  </BugInstance>
+  <BugInstance type="UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" priority="3" rank="20" abbrev="UwF" category="STYLE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" name="allDistances" signature="Ljava/util/LinkedList;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    </Field>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" name="onTurnEnded" signature="(Lrobocode/control/events/TurnEndedEvent;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" start="220" end="250" startBytecode="0" endBytecode="600" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    </Method>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" start="228" end="228" startBytecode="81" endBytecode="81" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" start="228" end="228" startBytecode="81" endBytecode="81" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+  </BugInstance>
+  <BugInstance type="UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" priority="3" rank="20" abbrev="UwF" category="STYLE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" name="prevPos" signature="Ljava/util/LinkedList;" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    </Field>
+    <Method classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" name="onTurnEnded" signature="(Lrobocode/control/events/TurnEndedEvent;)V" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" start="220" end="250" startBytecode="0" endBytecode="600" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    </Method>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" start="234" end="234" startBytecode="204" endBytecode="204" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" start="234" end="234" startBytecode="204" endBytecode="204" sourcefile="ST_F3_AntiGravMovement.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F3_AntiGravMovement.java"/>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_FIELD" priority="2" rank="18" abbrev="UrF" category="PERFORMANCE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F4_WallAvoidance">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F4_WallAvoidance" sourcefile="ST_F4_WallAvoidance.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F4_WallAvoidance.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F4_WallAvoidance" name="PRINT_DEBUG" signature="Z" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F4_WallAvoidance" sourcefile="ST_F4_WallAvoidance.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F4_WallAvoidance.java"/>
+    </Field>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_F4_WallAvoidance" start="54" end="54" startBytecode="38" endBytecode="38" sourcefile="ST_F4_WallAvoidance.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_F4_WallAvoidance.java"/>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_FIELD" priority="2" rank="18" abbrev="UrF" category="PERFORMANCE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_1vs1SpinBot">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_1vs1SpinBot" sourcefile="ST_Q_1vs1SpinBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_Q_1vs1SpinBot.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_1vs1SpinBot" name="SIZE_X" signature="I" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_1vs1SpinBot" sourcefile="ST_Q_1vs1SpinBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_Q_1vs1SpinBot.java"/>
+    </Field>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_1vs1SpinBot" start="55" end="55" startBytecode="33" endBytecode="33" sourcefile="ST_Q_1vs1SpinBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_Q_1vs1SpinBot.java"/>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_FIELD" priority="2" rank="18" abbrev="UrF" category="PERFORMANCE" first="1">
+    <Class classname="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_1vs1SpinBot">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_1vs1SpinBot" sourcefile="ST_Q_1vs1SpinBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_Q_1vs1SpinBot.java"/>
+    </Class>
+    <Field classname="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_1vs1SpinBot" name="SIZE_Y" signature="I" isStatic="false">
+      <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_1vs1SpinBot" sourcefile="ST_Q_1vs1SpinBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_Q_1vs1SpinBot.java"/>
+    </Field>
+    <SourceLine classname="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_1vs1SpinBot" start="56" end="56" startBytecode="40" endBytecode="40" sourcefile="ST_Q_1vs1SpinBot.java" sourcepath="se/lth/cs/etsa02/basicmeleebot/test/ST_Q_1vs1SpinBot.java"/>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Wed, 13 Apr 2022 10:57:23 +0200" total_classes="25" referenced_classes="128" total_bugs="19" total_size="1058" num_packages="2" java_version="11.0.14" vm_version="11.0.14+9" cpu_seconds="5.20" clock_seconds="1.67" peak_mbytes="578.49" alloc_mbytes="2048.00" gc_seconds="0.13" priority_3="11" priority_2="8">
+    <PackageStats package="se.lth.cs.etsa02.basicmeleebot" total_bugs="12" total_types="9" total_size="298" priority_3="7" priority_2="5">
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot" sourceFile="BasicMeleeBot.java" interface="false" size="37" bugs="2" priority_3="2"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.BasicMeleeBot_AntiPattern" sourceFile="BasicMeleeBot_AntiPattern.java" interface="false" size="85" bugs="5" priority_3="5"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.EnemyTracker" sourceFile="EnemyTracker.java" interface="false" size="41" bugs="1" priority_2="1"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.MathUtils" sourceFile="MathUtils.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.MovementSystem" sourceFile="MovementSystem.java" interface="false" size="43" bugs="2" priority_2="2"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.PositioningSystem" sourceFile="PositioningSystem.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.PositioningSystem$Wall" sourceFile="PositioningSystem.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.RobotColors" sourceFile="RobotColors.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.TargetingSystem" sourceFile="TargetingSystem.java" interface="false" size="26" bugs="2" priority_2="2"/>
+    </PackageStats>
+    <PackageStats package="se.lth.cs.etsa02.basicmeleebot.test" total_bugs="7" total_types="16" total_size="760" priority_3="4" priority_2="3">
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.BMBSystemTestSuite" sourceFile="BMBSystemTestSuite.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.BMBUnitTestSuite" sourceFile="BMBUnitTestSuite.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.EnemyTrackerTest" sourceFile="EnemyTrackerTest.java" interface="false" size="61" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.MathUtilsTest" sourceFile="MathUtilsTest.java" interface="false" size="139" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.MockBot" sourceFile="MockBot.java" interface="false" size="56" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.MockPositioningSystem" sourceFile="MockPositioningSystem.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.MockScannedRobotEvent" sourceFile="MockScannedRobotEvent.java" interface="false" size="32" bugs="1" priority_3="1"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.MovementSystemTest" sourceFile="MovementSystemTest.java" interface="false" size="70" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.PositioningSystemTest" sourceFile="PositioningSystemTest.java" interface="false" size="59" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.ST_F1_RadarSystem" sourceFile="ST_F1_RadarSystem.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.ST_F2_ClosestEnemyTargeting" sourceFile="ST_F2_ClosestEnemyTargeting.java" interface="false" size="38" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.ST_F3_AntiGravMovement" sourceFile="ST_F3_AntiGravMovement.java" interface="false" size="85" bugs="3" priority_3="3"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.ST_F4_WallAvoidance" sourceFile="ST_F4_WallAvoidance.java" interface="false" size="45" bugs="1" priority_2="1"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_1vs1SpinBot" sourceFile="ST_Q_1vs1SpinBot.java" interface="false" size="50" bugs="2" priority_2="2"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.ST_Q_MeleeSpinBots" sourceFile="ST_Q_MeleeSpinBots.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="se.lth.cs.etsa02.basicmeleebot.test.TargetingSystemTest" sourceFile="TargetingSystemTest.java" interface="false" size="40" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="167" invocations="2" avgMicrosecondsPerInvocation="83642" maxMicrosecondsPerInvocation="139930" standardDeviationMicrosecondsPerInvocation="56288"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="142" invocations="659" avgMicrosecondsPerInvocation="216" maxMicrosecondsPerInvocation="22669" standardDeviationMicrosecondsPerInvocation="947"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="85" invocations="664" avgMicrosecondsPerInvocation="128" maxMicrosecondsPerInvocation="38745" standardDeviationMicrosecondsPerInvocation="1504"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="78" invocations="191" avgMicrosecondsPerInvocation="408" maxMicrosecondsPerInvocation="34235" standardDeviationMicrosecondsPerInvocation="2502"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="63" invocations="191" avgMicrosecondsPerInvocation="334" maxMicrosecondsPerInvocation="5132" standardDeviationMicrosecondsPerInvocation="574"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="57" invocations="191" avgMicrosecondsPerInvocation="301" maxMicrosecondsPerInvocation="33054" standardDeviationMicrosecondsPerInvocation="2558"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="50" invocations="128" avgMicrosecondsPerInvocation="397" maxMicrosecondsPerInvocation="18923" standardDeviationMicrosecondsPerInvocation="1696"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="50" invocations="128" avgMicrosecondsPerInvocation="392" maxMicrosecondsPerInvocation="14609" standardDeviationMicrosecondsPerInvocation="1360"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="49" invocations="191" avgMicrosecondsPerInvocation="258" maxMicrosecondsPerInvocation="9282" standardDeviationMicrosecondsPerInvocation="812"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="49" invocations="191" avgMicrosecondsPerInvocation="258" maxMicrosecondsPerInvocation="4777" standardDeviationMicrosecondsPerInvocation="626"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="47" invocations="191" avgMicrosecondsPerInvocation="249" maxMicrosecondsPerInvocation="11653" standardDeviationMicrosecondsPerInvocation="861"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="45" invocations="191" avgMicrosecondsPerInvocation="239" maxMicrosecondsPerInvocation="3012" standardDeviationMicrosecondsPerInvocation="494"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="33" invocations="119" avgMicrosecondsPerInvocation="277" maxMicrosecondsPerInvocation="8023" standardDeviationMicrosecondsPerInvocation="787"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref" totalMilliseconds="31" invocations="25" avgMicrosecondsPerInvocation="1270" maxMicrosecondsPerInvocation="20162" standardDeviationMicrosecondsPerInvocation="3937"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="27" invocations="304" avgMicrosecondsPerInvocation="90" maxMicrosecondsPerInvocation="1385" standardDeviationMicrosecondsPerInvocation="155"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="26" invocations="25" avgMicrosecondsPerInvocation="1057" maxMicrosecondsPerInvocation="7296" standardDeviationMicrosecondsPerInvocation="1515"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="19" invocations="12" avgMicrosecondsPerInvocation="1607" maxMicrosecondsPerInvocation="7761" standardDeviationMicrosecondsPerInvocation="1893"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="16" invocations="191" avgMicrosecondsPerInvocation="87" maxMicrosecondsPerInvocation="3223" standardDeviationMicrosecondsPerInvocation="275"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.SwitchFallthrough" totalMilliseconds="16" invocations="25" avgMicrosecondsPerInvocation="658" maxMicrosecondsPerInvocation="10765" standardDeviationMicrosecondsPerInvocation="2073"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="16" invocations="622" avgMicrosecondsPerInvocation="26" maxMicrosecondsPerInvocation="965" standardDeviationMicrosecondsPerInvocation="62"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindUselessObjects" totalMilliseconds="14" invocations="25" avgMicrosecondsPerInvocation="578" maxMicrosecondsPerInvocation="3628" standardDeviationMicrosecondsPerInvocation="928"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref$CheckCallSitesAndReturnInstructions" totalMilliseconds="14" invocations="191" avgMicrosecondsPerInvocation="74" maxMicrosecondsPerInvocation="2260" standardDeviationMicrosecondsPerInvocation="189"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="14" invocations="25" avgMicrosecondsPerInvocation="565" maxMicrosecondsPerInvocation="2165" standardDeviationMicrosecondsPerInvocation="503"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="13" invocations="25" avgMicrosecondsPerInvocation="549" maxMicrosecondsPerInvocation="3903" standardDeviationMicrosecondsPerInvocation="741"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="12" invocations="191" avgMicrosecondsPerInvocation="67" maxMicrosecondsPerInvocation="470" standardDeviationMicrosecondsPerInvocation="63"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="12" invocations="128" avgMicrosecondsPerInvocation="95" maxMicrosecondsPerInvocation="644" standardDeviationMicrosecondsPerInvocation="136"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="12" invocations="128" avgMicrosecondsPerInvocation="94" maxMicrosecondsPerInvocation="753" standardDeviationMicrosecondsPerInvocation="136"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="11" invocations="128" avgMicrosecondsPerInvocation="93" maxMicrosecondsPerInvocation="3442" standardDeviationMicrosecondsPerInvocation="330"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindReturnRef" totalMilliseconds="11" invocations="25" avgMicrosecondsPerInvocation="442" maxMicrosecondsPerInvocation="1950" standardDeviationMicrosecondsPerInvocation="554"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1649842321243" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>

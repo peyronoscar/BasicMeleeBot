@@ -1,0 +1,27 @@
+
+u	java:S101-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Á‰¦ÌRMINORZ
+CODE_SMELL
+³
+java:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áˆ–¶úÿÿÿÿRCRITICALZ
+CODE_SMELL
+	java:S1161"WRename this field "ENEMY_ROBOTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ÿ˜ŒRMINORZ
+CODE_SMELL
+³
+java:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ¶ÖûÿÿÿÿRCRITICALZ
+CODE_SMELL
+ˆ	java:S1160"[Rename this field "ROBOT_UNDER_TEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”‡¼ıÿÿÿÿRMINORZ
+CODE_SMELL
+®
+java:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒºË’RCRITICALZ
+CODE_SMELL
+²
+java:S1186{"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´ÈÿôıÿÿÿÿRCRITICALZ
+CODE_SMELL
+‚	java:S1162"URename this field "NBR_ROUNDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÛğÿşÿÿÿÿRMINORZ
+CODE_SMELL
+³
+java:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öè“üÿÿÿÿRCRITICALZ
+CODE_SMELL
+f
+java:S1128"8Remove this unused import 'org.junit.Assert.assertTrue'.(”ÄÜ™ûÿÿÿÿRMINORZ
+CODE_SMELL

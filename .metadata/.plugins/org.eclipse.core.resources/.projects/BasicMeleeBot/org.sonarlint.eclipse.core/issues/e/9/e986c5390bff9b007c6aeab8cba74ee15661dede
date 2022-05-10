@@ -1,0 +1,10 @@
+
+‘
+java:S1192C"eDefine a constant instead of duplicating this literal "Check that the turn angle is correct" 7 times.(“§¬îRCRITICALZ
+CODE_SMELL
+˜
+java:S1192D"lDefine a constant instead of duplicating this literal "Check that the moving direction is correct." 7 times.(ËíƒØRCRITICALZ
+CODE_SMELL
+w
+java:S1192?"KDefine a constant instead of duplicating this literal "fake enemy" 6 times.(ÚĞÀRCRITICALZ
+CODE_SMELL

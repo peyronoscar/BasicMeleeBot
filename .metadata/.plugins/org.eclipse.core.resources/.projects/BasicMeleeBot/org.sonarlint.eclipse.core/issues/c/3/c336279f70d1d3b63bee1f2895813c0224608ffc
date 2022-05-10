@@ -1,0 +1,19 @@
+
+u	java:S101,"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³ ÍRMINORZ
+CODE_SMELL
+	java:S1160"WRename this field "ENEMY_ROBOTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÅ®•RMINORZ
+CODE_SMELL
+a	java:S106¤"9Replace this use of System.out or System.err by a logger.(œÈ¡0RMAJORZ
+CODE_SMELL
+ˆ	java:S116/"[Rename this field "ROBOT_UNDER_TEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”‡¼ıÿÿÿÿRMINORZ
+CODE_SMELL
+b	java:S106¡"9Replace this use of System.out or System.err by a logger.(‰¿õ˜RMAJORZ
+CODE_SMELL
+g	java:S106œ"9Replace this use of System.out or System.err by a logger.(×œ¯üÿÿÿÿRMAJORZ
+CODE_SMELL
+‚	java:S1161"URename this field "NBR_ROUNDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØªÃ×ÿÿÿÿÿRMINORZ
+CODE_SMELL
+	java:S1162"TRename this field "THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡³Ä¤ÿÿÿÿÿRMINORZ
+CODE_SMELL
+~	java:S1163"VRename this field "PRINT_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¨ØûRMINORZ
+CODE_SMELL

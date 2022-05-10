@@ -1,0 +1,29 @@
+
+³
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ¶ÖûÿÿÿÿRCRITICALZ
+CODE_SMELL
+g	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ùøğ£ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+u	java:S1012"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( í¤ÙRMINORZ
+CODE_SMELL
+‚	java:S1167"URename this field "NBR_ROUNDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØªÃ×ÿÿÿÿÿRMINORZ
+CODE_SMELL
+	java:S1168"TRename this field "THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÈÍıÿÿÿÿRMINORZ
+CODE_SMELL
+ƒ
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıĞĞœRMINORZ
+CODE_SMELL
+T
+java:S1481é"*Remove this unused "count" local variable.(æÕ¿¼RMINORZ
+CODE_SMELL
+	java:S1166"WRename this field "ENEMY_ROBOTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ÿ˜ŒRMINORZ
+CODE_SMELL
+‡	java:S1169"_Rename this field "IMMOBILE_TURNS_LIMIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú´÷²RMINORZ
+CODE_SMELL
+ˆ	java:S1165"[Rename this field "ROBOT_UNDER_TEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”‡¼ıÿÿÿÿRMINORZ
+CODE_SMELL
+ƒ	java:S116:"VRename this field "PRINT_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÔˆüÿÿÿÿRMINORZ
+CODE_SMELL
+ƒ
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó¸±»RMINORZ
+CODE_SMELL

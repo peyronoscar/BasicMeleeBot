@@ -1,0 +1,432 @@
+
+^javascript:S1117ÿ".'elem' is already declared in the upper scope.(ğÄÄ­RMAJORZ
+CODE_SMELL
+ojavascript:S1515­:"?Make sure this function is not called after the loop completes.(†‡µ±RMAJORZ
+CODE_SMELL
+ojavascript:S1121æ":Extract the assignment of "elemLang" from this expression.(è—µÙûÿÿÿÿRMAJORZ
+CODE_SMELL
+Zjavascript:S1117”"+'i' is already declared in the upper scope.(Ú§×RMAJORZ
+CODE_SMELL
+kjavascript:S1121´"6Extract the assignment of "elem" from this expression.(„ËøÉûÿÿÿÿRMAJORZ
+CODE_SMELL
+ejavascript:S1121”"6Extract the assignment of "elem" from this expression.(È¦ºrRMAJORZ
+CODE_SMELL
+jjavascript:S1121Ö"5Extract the assignment of "arr" from this expression.(Ì¯—şÿÿÿÿRMAJORZ
+CODE_SMELL
+_javascript:S1117…"/'isXML' is already declared in the upper scope.(»Ì’€RMAJORZ
+CODE_SMELL
+[javascript:S1117Ò@"+'j' is already declared in the upper scope.(ïÑ®ÂRMAJORZ
+CODE_SMELL
+`javascript:S1117¸"+'i' is already declared in the upper scope.(ÈÖ§ıÿÿÿÿRMAJORZ
+CODE_SMELL
+`javascript:S1117İ"+'i' is already declared in the upper scope.(ŞŒÖùÿÿÿÿRMAJORZ
+CODE_SMELL
+Yjavascript:S2310¶:"!Remove this assignment of "prop".(©‰¡šıÿÿÿÿRCRITICALZ
+CODE_SMELL
+fjavascript:S1117”"1'support' is already declared in the upper scope.(Øä»ŒøÿÿÿÿRMAJORZ
+CODE_SMELL
+[javascript:S1117ê"+'i' is already declared in the upper scope.(Ş¼Ş¢RMAJORZ
+CODE_SMELL
+tjavascript:S3358¹"DExtract this nested ternary operation into an independent statement.(•”ÁúRMAJORZ
+CODE_SMELL
+ejavascript:S1117ó"0'Sizzle' is already declared in the upper scope.(âôîáûÿÿÿÿRMAJORZ
+CODE_SMELL
+ljavascript:S1121²"7Extract the assignment of "match" from this expression.(¦¬ÔüÿÿÿÿRMAJORZ
+CODE_SMELL
+ljavascript:S1121 "7Extract the assignment of "token" from this expression.(ÚÂ½›üÿÿÿÿRMAJORZ
+CODE_SMELL
+ijavascript:S1121¥*"9Extract the assignment of "matched" from this expression.(«œşŸRMAJORZ
+CODE_SMELL
+pjavascript:S1121©*";Extract the assignment of "handleObj" from this expression.(×³Ä¬ıÿÿÿÿRMAJORZ
+CODE_SMELL
+sjavascript:S1121¼">Extract the assignment of "checkContext" from this expression.(ëœå­úÿÿÿÿRMAJORZ
+CODE_SMELL
+_javascript:S1117‘"/'isXML' is already declared in the upper scope.(í³ã€RMAJORZ
+CODE_SMELL
+`javascript:S1117¶"+'i' is already declared in the upper scope.(ÈÖ§ıÿÿÿÿRMAJORZ
+CODE_SMELL
+[javascript:S1117ô"+'i' is already declared in the upper scope.(“ĞÖˆRMAJORZ
+CODE_SMELL
+Sjavascript:S125€"Remove this commented out code.(¼¢“çıÿÿÿÿRMAJORZ
+CODE_SMELL
+ujavascript:S1121‹"@Extract the assignment of "matcherIn[ i ]" from this expression.(‰ä’°ıÿÿÿÿRMAJORZ
+CODE_SMELL
+ojavascript:S1121‚G":Extract the assignment of "selected" from this expression.(ø˜è½şÿÿÿÿRMAJORZ
+CODE_SMELL
+bjavascript:S1117Ú"-'dir' is already declared in the upper scope.(÷ô›£ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+‚javascript:S5850Œ"TGroup parts of the regex together to make the intended operator precedence explicit.(˜åÁÑùÿÿÿÿRMAJORZBUG
+jjavascript:S1121ƒ"5Extract the assignment of "val" from this expression.(ú‹¯…ıÿÿÿÿRMAJORZ
+CODE_SMELL
+‚javascript:S5850æ'"TGroup parts of the regex together to make the intended operator precedence explicit.(š»ºûÿÿÿÿRMAJORZBUG
+hjavascript:S1135¤"4Complete the task associated to this "TODO" comment.(ĞÉ©ÍøÿÿÿÿRINFOZ
+CODE_SMELL
+cjavascript:S1117Ç	".'node' is already declared in the upper scope.(…µÒıùÿÿÿÿRMAJORZ
+CODE_SMELL
+sjavascript:S3358î"DExtract this nested ternary operation into an independent statement.(®·èYRMAJORZ
+CODE_SMELL
+Mjavascript:S6324²"$Remove this control character: \x1f.(´‡¨RMAJORZBUG
+tjavascript:S3358ï"DExtract this nested ternary operation into an independent statement.(Ó¾óÃRMAJORZ
+CODE_SMELL
+fjavascript:S1121í"6Extract the assignment of "elem" from this expression.(òœÏ¬RMAJORZ
+CODE_SMELL
+bjavascript:S1117"-'arr' is already declared in the upper scope.(éÁÔêùÿÿÿÿRMAJORZ
+CODE_SMELL
+sjavascript:S905•"FExpected an assignment or function call and instead saw an expression.(öÇ…ÕøÿÿÿÿRMAJORZBUG
+bjavascript:S1117É%"2'nodeName' is already declared in the upper scope.( ŞÀœRMAJORZ
+CODE_SMELL
+sjavascript:S905@"FExpected an assignment or function call and instead saw an expression.(¦ó³§şÿÿÿÿRMAJORZBUG
+fjavascript:S1117²"1'matches' is already declared in the upper scope.(¬§»æûÿÿÿÿRMAJORZ
+CODE_SMELL
+yjavascript:S3358ç"DExtract this nested ternary operation into an independent statement.(¬¨ÜàøÿÿÿÿRMAJORZ
+CODE_SMELL
+ljavascript:S1854Ú"7Remove this useless assignment to variable "nodeIndex".(«Ë†ûÿÿÿÿRMAJORZ
+CODE_SMELL
+Njavascript:S125ã"Remove this commented out code.(úÙ½RMAJORZ
+CODE_SMELL
+`javascript:S1117ñ"+'i' is already declared in the upper scope.(•øüúÿÿÿÿRMAJORZ
+CODE_SMELL
+tjavascript:S3358K"DExtract this nested ternary operation into an independent statement.(¶¬­ÍRMAJORZ
+CODE_SMELL
+\javascript:S1264ò",Replace this "for" loop with a "while" loop.(ï¾ÜRMINORZ
+CODE_SMELL
+`javascript:S1117ƒ;"0'length' is already declared in the upper scope.(¥ø‹‘RMAJORZ
+CODE_SMELL
+pjavascript:S6353®"";Use concise character class syntax '.' instead of '[\w\W]'.(Ñ”“üÿÿÿÿRMINORZ
+CODE_SMELL
+fjavascript:S1121ö8"7Extract the assignment of "fxNow" from this expression.(“Ä½MRMAJORZ
+CODE_SMELL
+hjavascript:S1121Ã)"8Extract the assignment of "events" from this expression.(»ƒ‡RMAJORZ
+CODE_SMELL
+njavascript:S1121Ğ"9Extract the assignment of "pattern" from this expression.(¹’¾ıÿÿÿÿRMAJORZ
+CODE_SMELL
+Yjavascript:S1186M"&Unexpected empty method 'text script'.(§“Å³RCRITICALZ
+CODE_SMELL
+hjavascript:S1135–"4Complete the task associated to this "TODO" comment.(ĞÉ©ÍøÿÿÿÿRINFOZ
+CODE_SMELL
+fjavascript:S1117Ø"1'docElem' is already declared in the upper scope.(Ìãˆ‰üÿÿÿÿRMAJORZ
+CODE_SMELL
+tjavascript:S3358í"DExtract this nested ternary operation into an independent statement.(º¬ ÒRMAJORZ
+CODE_SMELL
+ejavascript:S1854³"0Remove this useless assignment to variable "el".(Ë©ëåûÿÿÿÿRMAJORZ
+CODE_SMELL
+^javascript:S1117‚;"/'index' is already declared in the upper scope.(›ãöqRMAJORZ
+CODE_SMELL
+_javascript:S1117µ1"/'value' is already declared in the upper scope.(Ú›ûèRMAJORZ
+CODE_SMELL
+hjavascript:S1135ª""4Complete the task associated to this "TODO" comment.(©ÇÈùÿÿÿÿRINFOZ
+CODE_SMELL
+kjavascript:S1121ˆ"6Extract the assignment of "elem" from this expression.(¿’ŸıÿÿÿÿRMAJORZ
+CODE_SMELL
+^javascript:S1117Ñ	".'node' is already declared in the upper scope.(ßÇÇ‡RMAJORZ
+CODE_SMELL
+[javascript:S1117«"+'i' is already declared in the upper scope.(ÆïşºRMAJORZ
+CODE_SMELL
+gjavascript:S1121¥"7Extract the assignment of "match" from this expression.(êÕ¸©RMAJORZ
+CODE_SMELL
+kjavascript:S1121¼"6Extract the assignment of "seed" from this expression.(Ä«¦¹şÿÿÿÿRMAJORZ
+CODE_SMELL
+Vjavascript:S2310Ï"Remove this assignment of "i".(­¤ÏşÿÿÿÿRCRITICALZ
+CODE_SMELL
+gjavascript:S1121¥%"7Extract the assignment of "scale" from this expression.(“Æ ÜRMAJORZ
+CODE_SMELL
+Ujavascript:S1656¿J"''urlAnchor.href' is assigned to itself.(—€ÆŞşÿÿÿÿRMAJORZBUG
+yjavascript:S3358ƒ"DExtract this nested ternary operation into an independent statement.(ú‹¯…ıÿÿÿÿRMAJORZ
+CODE_SMELL
+Rjavascript:S1186„L"Unexpected empty function.(‚ÿ©ÿÿÿÿÿRCRITICALZ
+CODE_SMELL
+[javascript:S1117÷@"+'j' is already declared in the upper scope.(ïÑ®ÂRMAJORZ
+CODE_SMELL
+`javascript:S1117°;"0'length' is already declared in the upper scope.(Ñ™éŒRMAJORZ
+CODE_SMELL
+_javascript:S1117à"/'value' is already declared in the upper scope.(ÒªãàRMAJORZ
+CODE_SMELL
+Djavascript:S108í"Empty block statement.(ô÷‹`RMAJORZ
+CODE_SMELL
+cjavascript:S1121½"3Extract the assignment of "j" from this expression.(…ìø RMAJORZ
+CODE_SMELL
+`javascript:S1117é"+'i' is already declared in the upper scope.(ãÌ²ÿüÿÿÿÿRMAJORZ
+CODE_SMELL
+]javascript:S1117¬;"/'index' is already declared in the upper scope.(ã¿RMAJORZ
+CODE_SMELL
+yjavascript:S3358ä"DExtract this nested ternary operation into an independent statement.(°ˆÃ¶ıÿÿÿÿRMAJORZ
+CODE_SMELL
+]javascript:S1117†"-'dir' is already declared in the upper scope.(‡³ØçRMAJORZ
+CODE_SMELL
+kjavascript:S6353»";Use concise character class syntax '.' instead of '[\w\W]'.(çèâŸRMINORZ
+CODE_SMELL
+rjavascript:S1121£
+"=Extract the assignment of "support.qsa" from this expression.(ï«şÁúÿÿÿÿRMAJORZ
+CODE_SMELL
+bjavascript:S1117»"-'arr' is already declared in the upper scope.(‚ÿÎúùÿÿÿÿRMAJORZ
+CODE_SMELL
+jjavascript:S1121†":Extract the assignment of "oldCache" from this expression.(£‘¶úRMAJORZ
+CODE_SMELL
+[javascript:S1117˜"+'i' is already declared in the upper scope.(Ş¼Ş¢RMAJORZ
+CODE_SMELL
+`javascript:S1117Ğ"+'i' is already declared in the upper scope.(ØÙšèşÿÿÿÿRMAJORZ
+CODE_SMELL
+kjavascript:S1121¹"6Extract the assignment of "elem" from this expression.(ÛÌñ‡şÿÿÿÿRMAJORZ
+CODE_SMELL
+ijavascript:S1121Œ"9Extract the assignment of "matches" from this expression.(ê“Ÿ‡RMAJORZ
+CODE_SMELL
+Rjavascript:S1186Ñ"Unexpected empty method 'noop'.(Î¯›·RCRITICALZ
+CODE_SMELL
+njavascript:S1121º">Extract the assignment of "matches[ i ]" from this expression.(é·RMAJORZ
+CODE_SMELL
+ljavascript:S1121”9"7Extract the assignment of "tween" from this expression.(¤·ÒÿÿÿÿÿRMAJORZ
+CODE_SMELL
+gjavascript:S1117Â"2'nodeName' is already declared in the upper scope.(¥”ÇµşÿÿÿÿRMAJORZ
+CODE_SMELL
+ojavascript:S1121˜)":Extract the assignment of "handlers" from this expression.(ÕØÁ×şÿÿÿÿRMAJORZ
+CODE_SMELL
+ejavascript:S1117º"0'hasOwn' is already declared in the upper scope.(µÙûÿÿÿÿRMAJORZ
+CODE_SMELL
+Zjavascript:S2310¥"(Remove this assignment of "firingIndex".(ĞĞ†]RCRITICALZ
+CODE_SMELL
+ijavascript:S1117˜"4'rquickExpr' is already declared in the upper scope.(õ¢øµıÿÿÿÿRMAJORZ
+CODE_SMELL
+Mjavascript:S6324²"$Remove this control character: \x1f.(´‡¨RMAJORZBUG
+hjavascript:S1121à"8Extract the assignment of "tokens" from this expression.(ÕöîóRMAJORZ
+CODE_SMELL
+kjavascript:S1121»"6Extract the assignment of "elem" from this expression.(ÛÌñ‡şÿÿÿÿRMAJORZ
+CODE_SMELL
+`javascript:S1117±"+'i' is already declared in the upper scope.(Œ«ØÿúÿÿÿÿRMAJORZ
+CODE_SMELL
+_javascript:S1117Ò7"/'value' is already declared in the upper scope.(¨ë×¶RMAJORZ
+CODE_SMELL
+Ejavascript:S108ƒ"Empty block statement.(çÛ£ïRMAJORZ
+CODE_SMELL
+njavascript:S1121¾">Extract the assignment of "matches[ j ]" from this expression.(Âß÷RMAJORZ
+CODE_SMELL
+vjavascript:S1121şB"AExtract the assignment of "option.selected" from this expression.(Åø¥ûÿÿÿÿRMAJORZ
+CODE_SMELL
+Sjavascript:S125Ô"Remove this commented out code.(²ğ‘êşÿÿÿÿRMAJORZ
+CODE_SMELL
+fjavascript:S1121¤"6Extract the assignment of "elem" from this expression.(Íö¾ÏRMAJORZ
+CODE_SMELL
+ejavascript:S1117àR"0'method' is already declared in the upper scope.(§ç¨ıÿÿÿÿRMAJORZ
+CODE_SMELL
+”javascript:S1994£"aThis loop's stop condition tests "queue.length, queue" but the incrementer updates "firingIndex".(âÖæÅRCRITICALZ
+CODE_SMELL
+`javascript:S1117Ÿ"+'i' is already declared in the upper scope.(ÏÆüÿÿÿÿRMAJORZ
+CODE_SMELL
+ajavascript:S1117Ã"1'indexOf' is already declared in the upper scope.(‡¼¯àRMAJORZ
+CODE_SMELL
+jjavascript:S1121Ü"5Extract the assignment of "nid" from this expression.(ñÌÿşÿÿÿÿRMAJORZ
+CODE_SMELL
+qjavascript:S1121—"AExtract the assignment of "results[ temp ]" from this expression.(èÜŒ¤RMAJORZ
+CODE_SMELL
+djavascript:S1117ì+"4'expectSync' is already declared in the upper scope.(üÅ×RMAJORZ
+CODE_SMELL
+Zjavascript:S1186…"'Unexpected empty function 'setFilters'.(»•ÿòRCRITICALZ
+CODE_SMELL
+wjavascript:S1121éF"GExtract the assignment of "structure[ dataType ]" from this expression.(á÷˜êRMAJORZ
+CODE_SMELL
+kjavascript:S1121¶"6Extract the assignment of "type" from this expression.(òƒÿñøÿÿÿÿRMAJORZ
+CODE_SMELL
+yjavascript:S3358"DExtract this nested ternary operation into an independent statement.(é³üËÿÿÿÿÿRMAJORZ
+CODE_SMELL
+Sjavascript:S125ç"Remove this commented out code.(Œá‰­ıÿÿÿÿRMAJORZ
+CODE_SMELL
+^javascript:S1117Ò7".'name' is already declared in the upper scope.(¨ë×¶RMAJORZ
+CODE_SMELL
+njavascript:S1121Ô?">Extract the assignment of "elem[ name ]" from this expression.(µáÑ®RMAJORZ
+CODE_SMELL
+fjavascript:S1117¶"1'matches' is already declared in the upper scope.(Ã¤ĞÀùÿÿÿÿRMAJORZ
+CODE_SMELL
+cjavascript:S1117™?".'name' is already declared in the upper scope.(£¥µşÿÿÿÿRMAJORZ
+CODE_SMELL
+pjavascript:S1121™"@Extract the assignment of "matches[ idx ]" from this expression.(àº…€RMAJORZ
+CODE_SMELL
+`javascript:S2310¬"(Remove this assignment of "firingIndex".(Ä¡–ûıÿÿÿÿRCRITICALZ
+CODE_SMELL
+sjavascript:S1121–C">Extract the assignment of "elem.checked" from this expression.(×ØŸˆüÿÿÿÿRMAJORZ
+CODE_SMELL
+}javascript:S5850ûS"TGroup parts of the regex together to make the intended operator precedence explicit.(ßôø³RMAJORZBUG
+bjavascript:S1854³"2Remove this useless assignment to variable "diff".(²œş³RMAJORZ
+CODE_SMELL
+cjavascript:S1117¾".'push' is already declared in the upper scope.(Í–‘úÿÿÿÿRMAJORZ
+CODE_SMELL
+yjavascript:S3358¸"DExtract this nested ternary operation into an independent statement.(òÖú®şÿÿÿÿRMAJORZ
+CODE_SMELL
+hjavascript:S1121"3Extract the assignment of "m" from this expression.(›»Ö¤úÿÿÿÿRMAJORZ
+CODE_SMELL
+bjavascript:S1117ŸF"-'val' is already declared in the upper scope.(Îã€šıÿÿÿÿRMAJORZ
+CODE_SMELL
+yjavascript:S1121Œ"IExtract the assignment of "support.matchesSelector" from this expression.(ê“Ÿ‡RMAJORZ
+CODE_SMELL
+tjavascript:S1121’"DExtract the assignment of "cache[ key + " " ]" from this expression.(ÃÓ¦ÇRMAJORZ
+CODE_SMELL
+ajavascript:S1264ê",Replace this "for" loop with a "while" loop.(ÒöÁşøÿÿÿÿRMINORZ
+CODE_SMELL
+ljavascript:S1121"<Extract the assignment of "matcherOut" from this expression.(ÜÜÎŸRMAJORZ
+CODE_SMELL
+]javascript:S1117ô"/'rtrim' is already declared in the upper scope.(´ÏXRMAJORZ
+CODE_SMELL
+cjavascript:S1121µ"3Extract the assignment of "m" from this expression.(¨ô”ñRMAJORZ
+CODE_SMELL
+Sjavascript:S125ó"Remove this commented out code.(íËô½ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+Pjavascript:S2310İ="Remove this assignment of "i".(¤©‰RCRITICALZ
+CODE_SMELL
+tjavascript:S3358”"DExtract this nested ternary operation into an independent statement.(ÚœŒòRMAJORZ
+CODE_SMELL
+{javascript:S1121û"KExtract the assignment of "matcherIn[ postMap[ i ] ]" from this expression.(ŸâRMAJORZ
+CODE_SMELL
+bjavascript:S1117½"-'arr' is already declared in the upper scope.(¢ÄùØúÿÿÿÿRMAJORZ
+CODE_SMELL
+fjavascript:S1121Æ0"6Extract the assignment of "data" from this expression.(‰£ñÑRMAJORZ
+CODE_SMELL
+ojavascript:S1121¶O":Extract the assignment of "callback" from this expression.(ã„¸ÕüÿÿÿÿRMAJORZ
+CODE_SMELL
+jjavascript:S1121ÿC"5Extract the assignment of "cur" from this expression.(Ò¸õ™şÿÿÿÿRMAJORZ
+CODE_SMELL
+^javascript:S1117¡#".'data' is already declared in the upper scope.(¥äƒâRMAJORZ
+CODE_SMELL
+gjavascript:S1121Ñ"8Extract the assignment of "method" from this expression.(Ş¶ó>RMAJORZ
+CODE_SMELL
+[javascript:S1117¹"+'i' is already declared in the upper scope.(¦îÎ‹RMAJORZ
+CODE_SMELL
+bjavascript:S1117µI"3'completed' is already declared in the upper scope.(¯ĞbRMAJORZ
+CODE_SMELL
+bjavascript:S1117"-'arr' is already declared in the upper scope.(áŸ½¾şÿÿÿÿRMAJORZ
+CODE_SMELL
+djavascript:S1117¿"/'slice' is already declared in the upper scope.(¾±©ÙøÿÿÿÿRMAJORZ
+CODE_SMELL
+yjavascript:S3358•"DExtract this nested ternary operation into an independent statement.(ú‹¯…ıÿÿÿÿRMAJORZ
+CODE_SMELL
+ejavascript:S1121ƒ"5Extract the assignment of "cur" from this expression.(çÛ£ïRMAJORZ
+CODE_SMELL
+gjavascript:S1117Š"2'nodeName' is already declared in the upper scope.(Ë¶¡ûÿÿÿÿRMAJORZ
+CODE_SMELL
+yjavascript:S3358•"DExtract this nested ternary operation into an independent statement.(³ÜµĞúÿÿÿÿRMAJORZ
+CODE_SMELL
+tjavascript:S1121Š"?Extract the assignment of "newCache[ 2 ]" from this expression.(Ï£’ôÿÿÿÿÿRMAJORZ
+CODE_SMELL
+jjavascript:S1121–":Extract the assignment of "selector" from this expression.(§ÑšïRMAJORZ
+CODE_SMELL
+djavascript:S1117‘"/'rhtml' is already declared in the upper scope.(†®šÒşÿÿÿÿRMAJORZ
+CODE_SMELL
+hjavascript:S1121Ÿ"8Extract the assignment of "tokens" from this expression.(ä‹İñRMAJORZ
+CODE_SMELL
+{javascript:S5850ô"TGroup parts of the regex together to make the intended operator precedence explicit.(´ÏXRMAJORZBUG
+fjavascript:S1117“"1'matches' is already declared in the upper scope.(å„ •ûÿÿÿÿRMAJORZ
+CODE_SMELL
+pjavascript:S6353®"";Use concise character class syntax '.' instead of '[\w\W]'.(Ñ”“üÿÿÿÿRMINORZ
+CODE_SMELL
+cjavascript:S1135î""4Complete the task associated to this "TODO" comment.(£ş«ÎRINFOZ
+CODE_SMELL
+kjavascript:S1121¹"6Extract the assignment of "find" from this expression.(ÏàÈŞúÿÿÿÿRMAJORZ
+CODE_SMELL
+ojavascript:S1121î3":Extract the assignment of "this.get" from this expression.(Ø “õüÿÿÿÿRMAJORZ
+CODE_SMELL
+_javascript:S1117Í "/'value' is already declared in the upper scope.(¸óªRMAJORZ
+CODE_SMELL
+djavascript:S1117›S"/'value' is already declared in the upper scope.(ãì¼ÚúÿÿÿÿRMAJORZ
+CODE_SMELL
+ejavascript:S1854³"0Remove this useless assignment to variable "el".(Ë©ëåûÿÿÿÿRMAJORZ
+CODE_SMELL
+tjavascript:S1226“"KIntroduce a new variable or use its initial value before reassigning "xml".(Ãé“„RMINORZBUG
+`javascript:S1117µ"+'i' is already declared in the upper scope.(ıÉÊ–ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+[javascript:S1117Õ"+'i' is already declared in the upper scope.(­¢¤êRMAJORZ
+CODE_SMELL
+cjavascript:S1117›S".'type' is already declared in the upper scope.(ãì¼ÚúÿÿÿÿRMAJORZ
+CODE_SMELL
+sjavascript:S3358’"DExtract this nested ternary operation into an independent statement.(­ƒmRMAJORZ
+CODE_SMELL
+_javascript:S1117 #"/'value' is already declared in the upper scope.(Ú›ûèRMAJORZ
+CODE_SMELL
+Zjavascript:S2310á:""Remove this assignment of "index".(é‰Ü„üÿÿÿÿRCRITICALZ
+CODE_SMELL
+`javascript:S1117å"+'i' is already declared in the upper scope.(¾Ùü±øÿÿÿÿRMAJORZ
+CODE_SMELL
+yjavascript:S3358ğ"DExtract this nested ternary operation into an independent statement.(§œäÿúÿÿÿÿRMAJORZ
+CODE_SMELL
+gjavascript:S1117¤"2'deferred' is already declared in the upper scope.(®¹•ıúÿÿÿÿRMAJORZ
+CODE_SMELL
+`javascript:S1117’"0'window' is already declared in the upper scope.(±°İ¢RMAJORZ
+CODE_SMELL
+gjavascript:S1854ë"2Remove this useless assignment to variable "name".(ÅàÉ¿ıÿÿÿÿRMAJORZ
+CODE_SMELL
+[javascript:S1117Ñ	"+'i' is already declared in the upper scope.(ßÇÇ‡RMAJORZ
+CODE_SMELL
+yjavascript:S3358ä"DExtract this nested ternary operation into an independent statement.(°ˆÃ¶ıÿÿÿÿRMAJORZ
+CODE_SMELL
+sjavascript:S905İ"FExpected an assignment or function call and instead saw an expression.(§—ÁíúÿÿÿÿRMAJORZBUG
+jjavascript:S1121•"5Extract the assignment of "val" from this expression.(ú‹¯…ıÿÿÿÿRMAJORZ
+CODE_SMELL
+tjavascript:S3358–"DExtract this nested ternary operation into an independent statement.(è×ÕRMAJORZ
+CODE_SMELL
+tjavascript:S3358È"DExtract this nested ternary operation into an independent statement.(ÇÔÊÒRMAJORZ
+CODE_SMELL
+gjavascript:S1117“/"2'nodeName' is already declared in the upper scope.(Àâ…üÿÿÿÿRMAJORZ
+CODE_SMELL
+sjavascript:S905@"FExpected an assignment or function call and instead saw an expression.(¦ó³§şÿÿÿÿRMAJORZBUG
+kjavascript:S1121“"6Extract the assignment of "elem" from this expression.(™¢æùÿÿÿÿRMAJORZ
+CODE_SMELL
+wjavascript:S1121åF"GExtract the assignment of "structure[ dataType ]" from this expression.(üœËõRMAJORZ
+CODE_SMELL
+sjavascript:S3358«"DExtract this nested ternary operation into an independent statement.(’Ÿ£XRMAJORZ
+CODE_SMELL
+bjavascript:S1117¡"2'document' is already declared in the upper scope.(×ªÔRMAJORZ
+CODE_SMELL
+`javascript:S1117¤"+'i' is already declared in the upper scope.(ŞŒ•ßÿÿÿÿÿRMAJORZ
+CODE_SMELL
+]javascript:S1117°"-'dir' is already declared in the upper scope.(ªŞÇRMAJORZ
+CODE_SMELL
+mjavascript:S1121è("8Extract the assignment of "events" from this expression.(Éì’ÇúÿÿÿÿRMAJORZ
+CODE_SMELL
+_javascript:S1117ì0"/'value' is already declared in the upper scope.(Ú›ûèRMAJORZ
+CODE_SMELL
+Šjavascript:S4144ÁO"ZUpdate this function so that its implementation is not identical to the one on line 10109.(×œŒ™RMAJORZ
+CODE_SMELL
+`javascript:S1117ñ"+'i' is already declared in the upper scope.(İ˜¼‹ùÿÿÿÿRMAJORZ
+CODE_SMELL
+djavascript:S1117÷"/'isXML' is already declared in the upper scope.(åÍÏ•ùÿÿÿÿRMAJORZ
+CODE_SMELL
+`javascript:S1117–"+'i' is already declared in the upper scope.(óÕ„–ùÿÿÿÿRMAJORZ
+CODE_SMELL
+bjavascript:S1117‚"-'dir' is already declared in the upper scope.(Ñæİ‹ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+ljavascript:S1854¶"7Remove this useless assignment to variable "nodeIndex".(«Ë†ûÿÿÿÿRMAJORZ
+CODE_SMELL
+_javascript:S1117§B"/'value' is already declared in the upper scope.(ÿÜÛİRMAJORZ
+CODE_SMELL
+bjavascript:S1117àR"-'val' is already declared in the upper scope.(§ç¨ıÿÿÿÿRMAJORZ
+CODE_SMELL
+‚javascript:S5850Õ."TGroup parts of the regex together to make the intended operator precedence explicit.(ì„¹ŠÿÿÿÿÿRMAJORZBUG
+mjavascript:S905š@"FExpected an assignment or function call and instead saw an expression.(ö„ã!RMAJORZBUG
+kjavascript:S1121ú"6Extract the assignment of "elem" from this expression.(îˆğÿıÿÿÿÿRMAJORZ
+CODE_SMELL
+[javascript:S1117Ğ"+'i' is already declared in the upper scope.(ÆïşºRMAJORZ
+CODE_SMELL
+Zjavascript:S1117¾"+'i' is already declared in the upper scope.(·ªŠdRMAJORZ
+CODE_SMELL
+Kjavascript:S1116Õ"Unnecessary semicolon.(ôŸìúÿÿÿÿRMINORZ
+CODE_SMELL
+ijavascript:S1121Æ"9Extract the assignment of "matcher" from this expression.(ë«–·RMAJORZ
+CODE_SMELL
+`javascript:S1117„"+'i' is already declared in the upper scope.(ÈÖ§ıÿÿÿÿRMAJORZ
+CODE_SMELL
+jjavascript:S1121ß"5Extract the assignment of "nid" from this expression.(Ğ°–øÿÿÿÿRMAJORZ
+CODE_SMELL
+yjavascript:S3358ì"DExtract this nested ternary operation into an independent statement.(¹šıêıÿÿÿÿRMAJORZ
+CODE_SMELL
+tjavascript:S3358ñ"DExtract this nested ternary operation into an independent statement.(Şø­¨RMAJORZ
+CODE_SMELL
+‰javascript:S3776("WRefactor this function to reduce its Cognitive Complexity from 24902 to the 15 allowed.(Çà§„RCRITICALZ
+CODE_SMELL
+`javascript:S1117û	"+'i' is already declared in the upper scope.(ÈÖ§ıÿÿÿÿRMAJORZ
+CODE_SMELL
+zjavascript:S1121‘4"EExtract the assignment of "vendorProps[ name ]" from this expression.(““ÒçüÿÿÿÿRMAJORZ
+CODE_SMELL
+mjavascript:S1121ë("=Extract the assignment of "eventHandle" from this expression.(íòRMAJORZ
+CODE_SMELL
+[javascript:S1117Ä"+'i' is already declared in the upper scope.(ÆïşºRMAJORZ
+CODE_SMELL
+mjavascript:S1121Í"8Extract the assignment of "method" from this expression.(³À¿ÓüÿÿÿÿRMAJORZ
+CODE_SMELL
+tjavascript:S1121‘"?Extract the assignment of "newCache[ 2 ]" from this expression.(ÆÓİˆıÿÿÿÿRMAJORZ
+CODE_SMELL
